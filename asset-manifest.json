@@ -4,12 +4,12 @@
     "main.js.map": "/static/js/main.ba5a7657.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e9796744.js",
     "runtime-main.js.map": "/static/js/runtime-main.e9796744.js.map",
-    "static/js/2.eb3175eb.chunk.js": "/static/js/2.eb3175eb.chunk.js",
-    "static/js/2.eb3175eb.chunk.js.map": "/static/js/2.eb3175eb.chunk.js.map",
+    "static/js/2.1b8b63ba.chunk.js": "/static/js/2.1b8b63ba.chunk.js",
+    "static/js/2.1b8b63ba.chunk.js.map": "/static/js/2.1b8b63ba.chunk.js.map",
     "static/js/3.dba0040c.chunk.js": "/static/js/3.dba0040c.chunk.js",
     "static/js/3.dba0040c.chunk.js.map": "/static/js/3.dba0040c.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.eb3175eb.chunk.js.LICENSE.txt": "/static/js/2.eb3175eb.chunk.js.LICENSE.txt",
+    "static/js/2.1b8b63ba.chunk.js.LICENSE.txt": "/static/js/2.1b8b63ba.chunk.js.LICENSE.txt",
     "static/media/apple.5757c37e.svg": "/static/media/apple.5757c37e.svg",
     "static/media/gamepad.c9269ef5.svg": "/static/media/gamepad.c9269ef5.svg",
     "static/media/logo.b839539c.svg": "/static/media/logo.b839539c.svg",
@@ -20,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e9796744.js",
-    "static/js/2.eb3175eb.chunk.js",
+    "static/js/2.1b8b63ba.chunk.js",
     "static/js/main.ba5a7657.chunk.js"
   ]
 }
